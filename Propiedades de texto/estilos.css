@@ -1,0 +1,15 @@
+h1{
+    color: #A81800;
+    text-align: left;
+    text-decoration:underline;
+}
+h1{
+    color: RGB(39, 91, 245);
+    text-align: center;
+    text-decoration:overline;
+}
+h1{
+    color: cyan;
+    text-align: right;
+    text-decoration:line-through;
+}

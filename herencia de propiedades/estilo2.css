@@ -1,0 +1,13 @@
+
+/*redefiniendo estilos
+*/
+body{
+    color:blue;
+    font-family:Verdana;
+}
+em{
+    color:greenyellow;
+}
+p{
+    color:plum;
+}
